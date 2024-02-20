@@ -1,5 +1,7 @@
 # Customers-and-Products-Analysis-Using-SQL
 
+Link to full code: https://github.com/youkichiba/Customers-and-Products-Analysis-Using-SQL/blob/main/project.sql
+
 The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
 
 Question 1: Which products should we order more of or less of?
